@@ -20,7 +20,7 @@ def print_digit_sum(num):
     pass
 
 """коммент"""
-
+'''второй комент'''
 while True:
     print("Введите:")
     print('1. Отрисовка треугольника')
