@@ -19,6 +19,7 @@ def print_digit_sum(num):
     print('сумма цифр числа =', summ)
     pass
 
+"""коммент"""
 
 while True:
     print("Введите:")
